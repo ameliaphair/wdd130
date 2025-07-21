@@ -26,8 +26,8 @@ main {
 aside{
     width: 100rem;
     margin:auto;
-    border: 3px dotted pink;
-    padding: 1rem;
+    border: 10px dotted pink;
+    padding: 1rem solid black;
     background-color: aqua;
     color:black;
     text-align: center;
